@@ -21,6 +21,7 @@ void main()
 		fact = 1;
 	}
 	cout << a << " ve " << b << " sayýlarý arasýndaki sayýlarýn faktöriyelleri toplamý: " << toplam << endl;
+	cout<<"Eline saðlýk :)"<<endl;
 	system("pause");
 
 }
